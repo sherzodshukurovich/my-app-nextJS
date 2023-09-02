@@ -1,6 +1,6 @@
 import React from 'react';
 
-function About(props) {
+function Nextjs(props) {
     return (
         <div>
             12
@@ -8,4 +8,4 @@ function About(props) {
     );
 }
 
-export default About;
+export default Nextjs;
