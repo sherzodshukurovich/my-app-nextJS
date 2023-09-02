@@ -6,9 +6,9 @@ export const metadata = {
 export default function RootLayout({children}) {
     return (
         <html>
-        <head>
-            <meta name="google-site-verification" content="rJjd21Egt5wDzuulodMe9LeB3pXRhNPr-aAbDE8mWy8"/>
-        </head>
+        <header>
+            <meta name="google-site-verification" content="rJjd21Egt5wDzuulodMe9LeB3pXRhNPr-aAbDE8mWy8" />
+        </header>
         <body>{children}</body>
         </html>
     )
